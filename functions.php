@@ -15,3 +15,16 @@ function enqueue_scripts() {
 }
 add_action( 'wp_enqueue_scripts', 'enqueue_scripts');
 
+function customsidebar_widgets_init() {
+    register_sidebar( array(
+        'name' => __( 'Sidebar Widget Title', '' ),
+        'id' => 'dysidebar',
+        'description' => __( 'demo description', '' ),
+        'before_widget' => '<aside id="%1$s" class="widget %2$s">',
+        'after_widget' => '</aside>',
+        'before_title' => '<h3 class="widget-title">',
+        'after_title' => '</h3>',
+    ) );
+}
+add_action( 'widgets_init', 'customsidebar_widgets_init' );
+
