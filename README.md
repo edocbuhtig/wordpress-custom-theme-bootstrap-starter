@@ -1,6 +1,6 @@
 ## WordPress custom theme from scratch with bootstrap integration, dynamic menu & sidebar
 
-Clone repo upload the (zip) to themes folder and activate from admin panel
+Clone repo upload the (zip) to themes folder and activate from admin panel, create few pages, create a new menu add pages to the menu, select menu location save and browse the site.
 
 External lib includes, as follows: 
 
