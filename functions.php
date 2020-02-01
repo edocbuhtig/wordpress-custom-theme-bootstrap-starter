@@ -28,3 +28,15 @@ function customsidebar_widgets_init() {
 }
 add_action( 'widgets_init', 'customsidebar_widgets_init' );
 
+function register_navwalker(){
+	require_once get_template_directory() . '/libs/navwalker.php';
+}
+add_action( 'after_setup_theme', 'register_navwalker' );
+
+function my_menu_function(){
+    register_nav_menus( array(
+      'primary' => 'Primary Navigation'
+    ));
+}
+add_action( 'init', 'my_menu_function' );
+
