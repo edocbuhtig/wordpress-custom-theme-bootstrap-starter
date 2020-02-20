@@ -10,6 +10,8 @@ External lib includes, as follows:
 
 Last tested locally on WordPress 5.x running PHP Version 7.4.1
 
+## Search Engine Optimization
+
 Adding meta tags as below:
 
 ```
