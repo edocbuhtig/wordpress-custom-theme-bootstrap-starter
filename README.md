@@ -1,4 +1,4 @@
-## WordPress custom theme from scratch with bootstrap integration, dynamic menu & sidebar
+### WordPress Bootstrap 5 Integration, dynamic bootstrap menu & custom sidebar widget
 
 Clone repo upload the (zip) to themes folder and activate from admin panel, create few pages, create a new menu add pages to the menu, select menu location save and browse the site.
 
@@ -9,7 +9,7 @@ External lib includes, as follows:
 
 Last tested locally on WordPress 5.x running PHP Version 7.4.1
 
-## Search Engine Optimization
+## Search Engine Optimization, meta tags, title tags
 
 Adding meta tags as below:
 
