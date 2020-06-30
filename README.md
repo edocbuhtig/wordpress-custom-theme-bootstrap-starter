@@ -4,8 +4,7 @@ Clone repo upload the (zip) to themes folder and activate from admin panel, crea
 
 External lib includes, as follows: 
 
-- Bootstrap v4.4.1 (https://getbootstrap.com/)
-- jQuery v3.4.1
+- Bootstrap v5 without jquery (https://getbootstrap.com/)
 - WP Bootstrap Navwalker (https://github.com/wp-bootstrap/wp-bootstrap-navwalker)
 
 Last tested locally on WordPress 5.x running PHP Version 7.4.1
@@ -26,7 +25,7 @@ function theme_demo_header_metadata() {
         <meta property="og:title" content="Free custom php wordpress theme with bootstrap "/>
         <meta property="og:image" content=""/>
         <meta property="og:description" content="Free custom php wordpress theme with bootstrap "/>
-        <meta property="og:url" content="www.sunilk.work" />
+        <meta property="og:url" content="sunilk.work" />
         <meta property="og:type" content="article" />
 
         <meta name="twitter:card" content="summary" />
