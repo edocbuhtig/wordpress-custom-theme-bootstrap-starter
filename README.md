@@ -25,7 +25,7 @@ function theme_demo_header_metadata() {
         <meta property="og:title" content="Free custom php wordpress theme with bootstrap "/>
         <meta property="og:image" content=""/>
         <meta property="og:description" content="Free custom php wordpress theme with bootstrap "/>
-        <meta property="og:url" content="sunilk.work" />
+        <meta property="og:url" content="sunilkumar" />
         <meta property="og:type" content="article" />
 
         <meta name="twitter:card" content="summary" />
