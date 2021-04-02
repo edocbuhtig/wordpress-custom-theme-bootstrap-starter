@@ -1,4 +1,4 @@
-### WordPress Bootstrap 5 Integration, dynamic bootstrap menu & custom sidebar widget
+### A Bootstrap 5 Starter Theme, for WordPress with SEO meta tags
 
 Clone repo upload the (zip) to themes folder and activate from admin panel, create few pages, create a new menu add pages to the menu, select menu location save and browse the site.
 
